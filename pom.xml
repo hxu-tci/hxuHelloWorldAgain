@@ -4,10 +4,10 @@
 	<artifactId>hxutest</artifactId>
 	<groupId>ca.toyota</groupId>
 	<version>1.0.0</version>
-	<build>
+ <!--  	<build>
 		<resources>
 			<resource>
-				<directory>src</directory>
+				<directory>src/main/java</directory>
 				<includes>
 					<include>**/*.*properties</include>
 				</includes>
@@ -24,7 +24,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+	</build>-->
 	<dependencies>
 		<dependency>
 			<groupId>log4j</groupId>
